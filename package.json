@@ -1,0 +1,25 @@
+{
+  "name": "sequencer",
+  "version": "1.0.0",
+  "description": "Step sequencer prototype using React.js",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everm1nd/react-sequencer.git"
+  },
+  "author": "everm1nd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everm1nd/react-sequencer/issues"
+  },
+  "homepage": "https://github.com/everm1nd/react-sequencer#readme"
+}
