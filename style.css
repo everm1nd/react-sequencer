@@ -1,0 +1,5 @@
+.current {
+  display: inline-block;
+  height: 18px;
+  background-color: red;
+}
