@@ -32,3 +32,7 @@ const render = () => {
 
 store.subscribe(render)
 render()
+
+setInterval(function(){
+  store.dispatch({type:'NEXT'})
+},250)
